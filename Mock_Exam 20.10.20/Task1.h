@@ -37,7 +37,7 @@ void task1()
             break;
         }
     }
-    std::cout << "Results: \nOnes: \t" << one << "\nTwos: \t" << two << "\nThrees: " << three << "\nFours: \t" << four << "\nFives: \t" << five << "\nSixes: \t" << six << std::endl;
+    std::cout << "Results: \nOnes: \t" << one << " times \nTwos: \t" << two << " times \nThrees: " << three << " times \nFours: \t" << four << " times \nFives: \t" << five << " times \nSixes: \t" << six << " times" << std::endl;
     system("pause");
 
 }
